@@ -1,1 +1,1 @@
-# PAGE-Net
+# PAGE-Net (PAthological & GEnomic)

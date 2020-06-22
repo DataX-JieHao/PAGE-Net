@@ -17,3 +17,10 @@
 
 ### Integration of aggregated pathological images and genomic data
 Run.py: to train the model with the inputs from train.csv. Hyperparmeters are optimized by grid search automatically with validation.csv. C-index is used to evaluate the model performance with test.csv.
+
+#Package Requirments
+###Preprocessing
+* PyHistopathology package
+* Keras
+* Tensorflow
+* Keract
